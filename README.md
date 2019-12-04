@@ -1,6 +1,12 @@
 # ninja-smoothies
 
-> A Vue.js project
+VueJS project to add/removes smoothies to a firebase cloud database
+
+Website may be viewed at: https://ninja-smoothies-a698b.web.app/
+
+These files are a result of training I have completed during a 11 hour Vue.js/Firebase course on Udemy in order to learn Vue. T
+
+Udemy course: https://www.udemy.com/course/build-web-apps-with-vuejs-firebase
 
 ## Build Setup
 
